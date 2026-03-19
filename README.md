@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/komalband/Basic_coding-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/komalband/Basic_coding-/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/komalband/Basic_coding-/tree/master/0220-contains-duplicate-iii) |
+| [0321-create-maximum-number](https://github.com/komalband/Basic_coding-/tree/master/0321-create-maximum-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/komalband/Basic_coding-/tree/master/0018-4sum) |
+| [0321-create-maximum-number](https://github.com/komalband/Basic_coding-/tree/master/0321-create-maximum-number) |
 ## Matrix
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/komalband/Basic_coding-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0321-create-maximum-number](https://github.com/komalband/Basic_coding-/tree/master/0321-create-maximum-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -97,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/komalband/Basic_coding-/tree/master/0220-contains-duplicate-iii) |
+## Greedy
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/komalband/Basic_coding-/tree/master/0321-create-maximum-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/komalband/Basic_coding-/tree/master/0321-create-maximum-number) |
 <!---LeetCode Topics End-->
