@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/komalband/Basic_coding-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/komalband/Basic_coding-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/komalband/Basic_coding-/tree/master/0169-majority-element) |
+| [0220-contains-duplicate-iii](https://github.com/komalband/Basic_coding-/tree/master/0220-contains-duplicate-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/komalband/Basic_coding-/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/komalband/Basic_coding-/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/komalband/Basic_coding-/tree/master/0169-majority-element) |
+| [0220-contains-duplicate-iii](https://github.com/komalband/Basic_coding-/tree/master/0220-contains-duplicate-iii) |
 ## Counting
 |  |
 | ------- |
@@ -83,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/komalband/Basic_coding-/tree/master/0037-sudoku-solver) |
+## Sliding Window
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/komalband/Basic_coding-/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/komalband/Basic_coding-/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/komalband/Basic_coding-/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
