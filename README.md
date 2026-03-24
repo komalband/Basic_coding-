@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/komalband/Basic_coding-/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/komalband/Basic_coding-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/komalband/Basic_coding-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/komalband/Basic_coding-/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/komalband/Basic_coding-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/komalband/Basic_coding-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/komalband/Basic_coding-/tree/master/0041-first-missing-positive) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/komalband/Basic_coding-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/komalband/Basic_coding-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/komalband/Basic_coding-/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/komalband/Basic_coding-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
