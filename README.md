@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/komalband/Basic_coding-/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/komalband/Basic_coding-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/komalband/Basic_coding-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/komalband/Basic_coding-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/komalband/Basic_coding-/tree/master/0169-majority-element) |
 ## Tree
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/komalband/Basic_coding-/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/komalband/Basic_coding-/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/komalband/Basic_coding-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/komalband/Basic_coding-/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/komalband/Basic_coding-/tree/master/0220-contains-duplicate-iii) |
 ## Counting
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/komalband/Basic_coding-/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/komalband/Basic_coding-/tree/master/0148-sort-list) |
 | [0321-create-maximum-number](https://github.com/komalband/Basic_coding-/tree/master/0321-create-maximum-number) |
 ## Matrix
 |  |
@@ -158,8 +161,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/komalband/Basic_coding-/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/komalband/Basic_coding-/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/komalband/Basic_coding-/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/komalband/Basic_coding-/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
