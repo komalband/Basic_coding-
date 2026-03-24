@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/komalband/Basic_coding-/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/komalband/Basic_coding-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/komalband/Basic_coding-/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2191-sort-the-jumbled-numbers](https://github.com/komalband/Basic_coding-/tree/master/2191-sort-the-jumbled-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/komalband/Basic_coding-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/komalband/Basic_coding-/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/komalband/Basic_coding-/tree/master/0220-contains-duplicate-iii) |
+| [2191-sort-the-jumbled-numbers](https://github.com/komalband/Basic_coding-/tree/master/2191-sort-the-jumbled-numbers) |
 ## Counting
 |  |
 | ------- |
