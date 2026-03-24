@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/komalband/Basic_coding-/tree/master/0014-longest-common-prefix) |
+| [0936-stamping-the-sequence](https://github.com/komalband/Basic_coding-/tree/master/0936-stamping-the-sequence) |
 ## Trie
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/komalband/Basic_coding-/tree/master/0232-implement-queue-using-stacks) |
 | [0321-create-maximum-number](https://github.com/komalband/Basic_coding-/tree/master/0321-create-maximum-number) |
 | [0895-maximum-frequency-stack](https://github.com/komalband/Basic_coding-/tree/master/0895-maximum-frequency-stack) |
+| [0936-stamping-the-sequence](https://github.com/komalband/Basic_coding-/tree/master/0936-stamping-the-sequence) |
 | [0946-validate-stack-sequences](https://github.com/komalband/Basic_coding-/tree/master/0946-validate-stack-sequences) |
 | [1172-dinner-plate-stacks](https://github.com/komalband/Basic_coding-/tree/master/1172-dinner-plate-stacks) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/komalband/Basic_coding-/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/komalband/Basic_coding-/tree/master/0321-create-maximum-number) |
+| [0936-stamping-the-sequence](https://github.com/komalband/Basic_coding-/tree/master/0936-stamping-the-sequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/komalband/Basic_coding-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/komalband/Basic_coding-/tree/master/0232-implement-queue-using-stacks) |
+| [0936-stamping-the-sequence](https://github.com/komalband/Basic_coding-/tree/master/0936-stamping-the-sequence) |
 ## Simulation
 |  |
 | ------- |
