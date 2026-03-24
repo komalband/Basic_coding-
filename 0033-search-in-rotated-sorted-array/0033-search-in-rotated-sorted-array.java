@@ -5,23 +5,23 @@ class Solution {
         while (left <= right) {
             int mid = left + (right - left) / 2;
             
-           
+            // If target found
             if (nums[mid] == target) {
                 return mid;
             }
             
-           
+            // Check if left half is sorted
             if (nums[left] <= nums[mid]) {
-                
+                // Target lies in left half
                 if (nums[left] <= target && target < nums[mid]) {
                     right = mid - 1;
                 } else {
                     left = mid + 1;
                 }
             } 
-            
+            // Otherwise, right half is sorted
             else {
-                
+                // Target lies in right half
                 if (nums[mid] < target && target <= nums[right]) {
                     left = mid + 1;
                 } else {
@@ -30,6 +30,6 @@ class Solution {
             }
         }
         
-        return -1; 
+        return -1; // Not found
     }
 }
