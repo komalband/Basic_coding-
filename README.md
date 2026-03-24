@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/komalband/Basic_coding-/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/komalband/Basic_coding-/tree/master/0220-contains-duplicate-iii) |
 | [0321-create-maximum-number](https://github.com/komalband/Basic_coding-/tree/master/0321-create-maximum-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/komalband/Basic_coding-/tree/master/1441-build-an-array-with-stack-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/komalband/Basic_coding-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/komalband/Basic_coding-/tree/master/0232-implement-queue-using-stacks) |
 | [0321-create-maximum-number](https://github.com/komalband/Basic_coding-/tree/master/0321-create-maximum-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/komalband/Basic_coding-/tree/master/1441-build-an-array-with-stack-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/komalband/Basic_coding-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/komalband/Basic_coding-/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/komalband/Basic_coding-/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
