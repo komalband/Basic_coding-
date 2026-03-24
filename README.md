@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/komalband/Basic_coding-/tree/master/0220-contains-duplicate-iii) |
 | [0321-create-maximum-number](https://github.com/komalband/Basic_coding-/tree/master/0321-create-maximum-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/komalband/Basic_coding-/tree/master/1441-build-an-array-with-stack-operations) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/komalband/Basic_coding-/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/komalband/Basic_coding-/tree/master/0232-implement-queue-using-stacks) |
 | [0321-create-maximum-number](https://github.com/komalband/Basic_coding-/tree/master/0321-create-maximum-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/komalband/Basic_coding-/tree/master/1441-build-an-array-with-stack-operations) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/komalband/Basic_coding-/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Backtracking
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/komalband/Basic_coding-/tree/master/0321-create-maximum-number) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/komalband/Basic_coding-/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Design
 |  |
 | ------- |
