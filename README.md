@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/komalband/Basic_coding-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/komalband/Basic_coding-/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/komalband/Basic_coding-/tree/master/0232-implement-queue-using-stacks) |
 | [0321-create-maximum-number](https://github.com/komalband/Basic_coding-/tree/master/0321-create-maximum-number) |
 ## Backtracking
 |  |
@@ -113,8 +114,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/komalband/Basic_coding-/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/komalband/Basic_coding-/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/komalband/Basic_coding-/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/komalband/Basic_coding-/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
