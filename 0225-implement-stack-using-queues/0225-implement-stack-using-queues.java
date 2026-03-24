@@ -12,7 +12,7 @@ class MyStack {
     public void push(int x) {
         q.add(x);
 
-        // rotate elements
+     
         for (int i = 0; i < q.size() - 1; i++) {
             q.add(q.remove());
         }
