@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/komalband/Basic_coding-/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/komalband/Basic_coding-/tree/master/0344-reverse-string) |
+| [0784-letter-case-permutation](https://github.com/komalband/Basic_coding-/tree/master/0784-letter-case-permutation) |
 | [0936-stamping-the-sequence](https://github.com/komalband/Basic_coding-/tree/master/0936-stamping-the-sequence) |
 ## Trie
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/komalband/Basic_coding-/tree/master/0037-sudoku-solver) |
+| [0784-letter-case-permutation](https://github.com/komalband/Basic_coding-/tree/master/0784-letter-case-permutation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/komalband/Basic_coding-/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/komalband/Basic_coding-/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
