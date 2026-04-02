@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/komalband/Basic_coding-/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/komalband/Basic_coding-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/komalband/Basic_coding-/tree/master/0509-fibonacci-number) |
 ## Stack
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/komalband/Basic_coding-/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/komalband/Basic_coding-/tree/master/0060-permutation-sequence) |
 | [0509-fibonacci-number](https://github.com/komalband/Basic_coding-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
