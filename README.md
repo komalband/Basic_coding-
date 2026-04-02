@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/komalband/Basic_coding-/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/komalband/Basic_coding-/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/komalband/Basic_coding-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0147-insertion-sort-list](https://github.com/komalband/Basic_coding-/tree/master/0147-insertion-sort-list) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/komalband/Basic_coding-/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/komalband/Basic_coding-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
