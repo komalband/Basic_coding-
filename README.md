@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/komalband/Basic_coding-/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/komalband/Basic_coding-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/komalband/Basic_coding-/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/komalband/Basic_coding-/tree/master/0779-k-th-symbol-in-grammar) |
 ## Stack
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/komalband/Basic_coding-/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/komalband/Basic_coding-/tree/master/0060-permutation-sequence) |
 | [0509-fibonacci-number](https://github.com/komalband/Basic_coding-/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/komalband/Basic_coding-/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/komalband/Basic_coding-/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/komalband/Basic_coding-/tree/master/0784-letter-case-permutation) |
 ## Breadth-First Search
 |  |
