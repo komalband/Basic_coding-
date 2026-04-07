@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/komalband/Basic_coding-/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/komalband/Basic_coding-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/komalband/Basic_coding-/tree/master/0169-majority-element) |
+| [0212-word-search-ii](https://github.com/komalband/Basic_coding-/tree/master/0212-word-search-ii) |
 | [0220-contains-duplicate-iii](https://github.com/komalband/Basic_coding-/tree/master/0220-contains-duplicate-iii) |
 | [0321-create-maximum-number](https://github.com/komalband/Basic_coding-/tree/master/0321-create-maximum-number) |
 | [0733-flood-fill](https://github.com/komalband/Basic_coding-/tree/master/0733-flood-fill) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/komalband/Basic_coding-/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/komalband/Basic_coding-/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/komalband/Basic_coding-/tree/master/0126-word-ladder-ii) |
+| [0212-word-search-ii](https://github.com/komalband/Basic_coding-/tree/master/0212-word-search-ii) |
 | [0344-reverse-string](https://github.com/komalband/Basic_coding-/tree/master/0344-reverse-string) |
 | [0784-letter-case-permutation](https://github.com/komalband/Basic_coding-/tree/master/0784-letter-case-permutation) |
 | [0936-stamping-the-sequence](https://github.com/komalband/Basic_coding-/tree/master/0936-stamping-the-sequence) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/komalband/Basic_coding-/tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/komalband/Basic_coding-/tree/master/0212-word-search-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/komalband/Basic_coding-/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/komalband/Basic_coding-/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/komalband/Basic_coding-/tree/master/0130-surrounded-regions) |
+| [0212-word-search-ii](https://github.com/komalband/Basic_coding-/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/komalband/Basic_coding-/tree/master/0733-flood-fill) |
 ## Math
 |  |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/komalband/Basic_coding-/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/komalband/Basic_coding-/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/komalband/Basic_coding-/tree/master/0126-word-ladder-ii) |
+| [0212-word-search-ii](https://github.com/komalband/Basic_coding-/tree/master/0212-word-search-ii) |
 | [0784-letter-case-permutation](https://github.com/komalband/Basic_coding-/tree/master/0784-letter-case-permutation) |
 ## Sliding Window
 |  |
