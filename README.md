@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/komalband/Basic_coding-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/komalband/Basic_coding-/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/komalband/Basic_coding-/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/komalband/Basic_coding-/tree/master/0126-word-ladder-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/komalband/Basic_coding-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/komalband/Basic_coding-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/komalband/Basic_coding-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/komalband/Basic_coding-/tree/master/0041-first-missing-positive) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/komalband/Basic_coding-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0220-contains-duplicate-iii](https://github.com/komalband/Basic_coding-/tree/master/0220-contains-duplicate-iii) |
 ## Bucket Sort
 |  |
